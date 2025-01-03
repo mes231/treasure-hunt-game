@@ -75,3 +75,6 @@ Customize the game’s appearance by modifying the layout in the code:
    label_position = ft.Text(f"Clue {position}", size=30, weight=ft.FontWeight.BOLD)
    label_charade = ft.Text("Clue text...", size=20, color="blue")
 
+4. **Add More Stages**:
+   
+Expand the codes dictionary with additional clues and codes. Ensure the game logic supports these new stages.
