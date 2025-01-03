@@ -11,9 +11,12 @@ The game leads the player through a series of riddles and clues, each hidden beh
 **Start the Game:** When the game begins, the player is welcomed with a congratulatory m
 
 **Clues & Codes:** Each stage presents a riddle, and the player must input the correct code to continue. Each correc
+
 **Input:** Players enter the code they beli
+
 **Completion:** Once all clues are solved, the player is congratulated, and the game ends.
 Features
+
 Interactive gameplay: Players can actively solve riddles and input codes.
 Customizable clues and codes: The game is easy to modi
 Simple interface: Built using the Flet library, ensuring easy setup and minimal dependencies.
