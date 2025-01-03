@@ -42,6 +42,7 @@ Ensure you have Python installed, then run:
    pip install flet
    
 3. **Run the Game**:
+   
 Start the game with:
    ```bash
    python game.py
