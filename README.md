@@ -36,8 +36,12 @@ To run the game locally, follow these steps:
    git clone https://github.com/your_username/treasure-hunt-game.git
    cd treasure-hunt-game
 
-2. ** Install the Required Dependencies**:
+2. **Install the Required Dependencies**:
 Ensure you have Python installed, then run:
 ```python
    pip install flet
    
+3. **Run the Game**:
+Start the game with:
+```bash
+python game.py
