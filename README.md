@@ -47,3 +47,7 @@ Start the game with:
    python game.py
 The game will open automatically.
 
+## How to Modify the Game
+
+This game is designed to be easily customizable. Here’s how you can make changes:
+
