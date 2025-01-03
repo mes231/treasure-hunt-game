@@ -76,4 +76,9 @@ Customize the game’s appearance by modifying the layout in the code:
    label_charade = ft.Text("Clue text...", size=20, color="blue")
 
 4. **Add More Stages**:
+
    Expand the codes dictionary with additional clues and codes. Ensure the game logic supports these new stages.
+
+## Contributing
+
+We welcome contributions! If you have ideas for new features, improvements, or bug fixes, feel free to fork the repository and submit a pull request.
