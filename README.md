@@ -9,6 +9,7 @@ How It Works
 The game leads the player through a series of riddles and clues, each hidden behind a code that must be input correctly to progress to the next stage. Here’s h
 
 **Start the Game:** When the game begins, the player is welcomed with a congratulatory m
+
 **Clues & Codes:** Each stage presents a riddle, and the player must input the correct code to continue. Each correc
 **Input:** Players enter the code they beli
 **Completion:** Once all clues are solved, the player is congratulated, and the game ends.
