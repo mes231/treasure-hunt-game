@@ -38,5 +38,6 @@ To run the game locally, follow these steps:
 
 2. ** Install the Required Dependencies**:
 Ensure you have Python installed, then run:
+```python
    pip install flet
    
