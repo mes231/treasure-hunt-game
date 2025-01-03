@@ -68,3 +68,6 @@ You can make the game easier or harder by:
    Setting simpler or more complex codes.
    
    Adding more stages to the game.
+
+3. **Edit the Visuals**:
+Customize the game’s appearance by modifying the layout in the code:
