@@ -51,3 +51,13 @@ The game will open automatically.
 
 This game is designed to be easily customizable. Here’s how you can make changes:
 
+1. **Change the Riddles and Codes**:
+Update the dictionary storing the clues and codes:
+   ```python
+   codes = {
+    1: ("8341", "Clue text..."),
+    2: ("9474", "Another clue..."),
+    # Add more clues as needed
+}
+
+2. 
