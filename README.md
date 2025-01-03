@@ -71,3 +71,7 @@ You can make the game easier or harder by:
 
 3. **Edit the Visuals**:
 Customize the game’s appearance by modifying the layout in the code:
+   ```python
+   label_position = ft.Text(f"Clue {position}", size=30, weight=ft.FontWeight.BOLD)
+   label_charade = ft.Text("Clue text...", size=20, color="blue")
+
