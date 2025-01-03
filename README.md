@@ -45,3 +45,5 @@ Ensure you have Python installed, then run:
 Start the game with:
    ```bash
    python game.py
+The game will open automatically.
+
