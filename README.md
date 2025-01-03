@@ -60,4 +60,9 @@ Update the dictionary storing the clues and codes:
     # Add more clues as needed
 }
 
-2. 
+2. **Adjust Game Difficulty**:
+You can make the game easier or harder by:
+
+   Modifying the riddles.
+   Setting simpler or more complex codes.
+   Adding more stages to the game.
