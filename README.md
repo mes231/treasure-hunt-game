@@ -64,5 +64,7 @@ Update the dictionary storing the clues and codes:
 You can make the game easier or harder by:
 
    Modifying the riddles.
+   
    Setting simpler or more complex codes.
+   
    Adding more stages to the game.
