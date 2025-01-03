@@ -1,5 +1,5 @@
 # Treasure Hunt Game
-treasure-hunt-game Digital Treasure Hunt Game An interactive treasure hunt built with Python and Flet. Solve riddles, find codes, and unlock surprises! 🎉 Customizable for any occasion. Clone, edit, and share the fun! 🚀
+An interactive treasure hunt built with Python and Flet. Solve riddles, find codes, and unlock surprises! 🎉 Customizable for any occasion. Clone, edit, and share the fun! 🚀
 
 Treasure Hunt Gam
 A fun and interactive treasure hunt game with hidden clues and codes!
