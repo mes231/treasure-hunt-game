@@ -44,4 +44,4 @@ Ensure you have Python installed, then run:
 3. **Run the Game**:
 Start the game with:
    ```bash
-python game.py
+   python game.py
